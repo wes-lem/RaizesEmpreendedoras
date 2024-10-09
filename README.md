@@ -31,7 +31,6 @@ Este projeto foi desenvolvido por:
 - **CSS3**
 - **JavaScript**
 - **Bootstrap**
-- **Leaflet.js** para o mapa interativo
 
 ## Imagem da Landing Page 🌍
 
