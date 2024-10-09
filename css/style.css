@@ -1,0 +1,23 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+body{ background-color: aliceblue; }
+.h-80 { height: 80vh;}
+.c-raizes{ color: #D5682B !important;}
+.c-verde{ color: #4E6424 !important;}
+.c-amarelo{ color: #DB9F47 !important;}
+.bg-raizes{ background-color: #D5682B !important;}
+.bg-verde { background-color: #4E6424 !important; border-color: #4E6424 !important; }
+.bg-amarelo{ background-color: #DB9F47 !important; }
+.btn-success{ background-color: #4E6424 !important; border-color: #4E6424 !important;}
+.btn-raizes{ background-color: #D5682B !important; border-color: #D5682B !important; color: #FFFFFF !important;}
+.borda { position: relative; display: inline-block; }
+.borda:after{ content: ''; position: absolute; width: 10%; height: 5px; border-bottom: 3px #FFFFFF solid; left: 50%; transform: translateX(-50%); bottom: -10px;}
+.borda-v:after{ border-bottom: 3px #4E6424 solid;}
+.borda-f{ border-bottom: #D5682B solid 3px;}
+
+header{ width: 100%; height: 70vh; }
+
+.carousel .row .col .card{ height: 400px; }
+
+.carousel-control-prev-icon,.carousel-control-next-icon { background: #D5682B; border-radius: 50%; }
+.carousel-control-prev { margin-left: -125px; }
+.carousel-control-next { margin-right: -125px; }
