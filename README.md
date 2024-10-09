@@ -32,7 +32,7 @@ Este projeto foi desenvolvido por:
 - **Bootstrap**
 
 ## Imagem da Landing Page 🌍
-![Imagem da Landing Page](img/landing.png)
+![Imagem da Landing Page](img/lading.png)
 
 ---
 
