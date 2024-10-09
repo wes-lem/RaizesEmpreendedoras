@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-O **Raízes Empreendedoras** é uma plataforma inovadora que celebra e promove a diversidade do empreendedorismo no Ceará. Com foco em 27 empresas de diferentes etnias, o projeto busca conectar a preservação cultural com a inovação, promovendo o desenvolvimento econômico e social de forma sustentável.
+O **Raízes Empreendedoras** é uma plataforma inovadora que celebra e promove a diversidade do empreendedorismo no Ceará. Com foco em 9 empresas de diferentes etnias, o projeto busca conectar a preservação cultural com a inovação, promovendo o desenvolvimento econômico e social de forma sustentável.
 
 ### Objetivos do Projeto:
 - Promover o empreendedorismo cearense com um foco cultural e social.
@@ -21,7 +21,6 @@ Este projeto foi desenvolvido por:
 
 ## Funcionalidades principais 🔍
 
-- Mapa interativo com a localização das empresas.
 - Informações detalhadas sobre cada empresa, incluindo etnia, empreendedor e impacto social.
 - Interface visual amigável, ideal para o público jovem.
 
@@ -33,9 +32,6 @@ Este projeto foi desenvolvido por:
 - **Bootstrap**
 
 ## Imagem da Landing Page 🌍
-
-Adicione aqui uma imagem da landing page:
-
 ![Imagem da Landing Page](img/landing.png)
 
 ---
